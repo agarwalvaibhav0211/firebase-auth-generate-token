@@ -7,7 +7,7 @@ This is a very simple NodeJs script to generate the Firebase access token from e
 Clone the repository.
 
 ```
-git clone https://github.com/tregismoreira/firebase-auth-generate-token.git
+git clone https://github.com/agarwalvaibhav0211/firebase-auth-generate-token.git
 ```
 
 Install the dependencies.
@@ -43,6 +43,7 @@ Once you run the script, you will be prompted the email and password. If the cre
 ## Authors
 
 -   Thiago Régis ([tregismoreira](https://twitter.com/tregismoreira)) - _Initial work_
+-   Vaibhav Agarwal ([agarwalvaibhav0211](https://github.com/agarwalvaibhav0211)) - _Updated to latest firebase version_
 
 ## Contributing Guide
 
